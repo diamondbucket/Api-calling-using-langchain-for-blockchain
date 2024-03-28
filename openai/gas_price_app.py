@@ -6,7 +6,7 @@ def gas_price():
     apiUrl = "https://api.1inch.dev/gas-price/v1.5/1"
     requestOptions = {
           "headers": {
-      "Authorization": "Bearer hYtkClnx9qbSybFeUUxHBOxFFffHxCBw"
+      "Authorization": "Bearer {api_key}"
     },
           "body": {},
           "params": {}
