@@ -2,7 +2,7 @@ from openai import OpenAI
 import json 
 import gas_price_app as gap
 import top
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "...."
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
